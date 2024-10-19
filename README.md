@@ -1,2 +1,2 @@
 # RegisterRoulette
-A web-based registration platform with integrated data storage and a built-in roulette system, developed for a conference. This project handles user registrations efficiently, stores data securely in a database, and incorporates a roulette feature to add a unique element to the user experience.
+A web-based registration platform with integrated data storage (using MySQL) and a built-in roulette system, developed for a conference. The project was implemented twice: once using Python Flask and another time using PHP. It efficiently handles user registrations, stores data securely, and incorporates a unique roulette feature for added functionality. The system can be deployed locally with Flask or a PHP server,
